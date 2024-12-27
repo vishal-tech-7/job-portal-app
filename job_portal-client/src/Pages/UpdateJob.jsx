@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import {useForm} from "react-hook-form";
 import CreatableSelect from "react-select/creatable";

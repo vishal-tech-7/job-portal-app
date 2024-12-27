@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { FaEnvelopeOpenText } from "react-icons/fa6"
 
 const Newsletter = () => {

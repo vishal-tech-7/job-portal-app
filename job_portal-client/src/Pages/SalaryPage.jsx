@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import PageHeader from '../components/PageHeader'
+import React, { useEffect, useState } from 'react';
+import PageHeader from '../components/PageHeader';
 
 const SalaryPage = () => {
 

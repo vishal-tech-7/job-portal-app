@@ -8,7 +8,8 @@ import CreateJob from "../Pages/CreateJob";
 import MyJobs from "../Pages/MyJobs";
 import SalaryPage from "../Pages/SalaryPage";
 import UpdateJob from "../Pages/UpdateJob";
-import RequireAuth from "../components/RequireAuth"; // Import RequireAuth component
+import RequireAuth from "../components/RequireAuth";
+import React from "react"; // Import RequireAuth component
 
 const router = createBrowserRouter([
     {
